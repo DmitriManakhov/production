@@ -1,1 +1,1 @@
-b279095 (Удаляем логирование)
+console.error('console log alert');
